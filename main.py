@@ -1,5 +1,6 @@
+# forNew
 import numpy as np
-import torch as th
+import torch
 import gym
 import argparse
 import os
