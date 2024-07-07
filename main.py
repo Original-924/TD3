@@ -1,5 +1,5 @@
 import numpy as np
-import torch
+import torch as th
 import gym
 import argparse
 import os
